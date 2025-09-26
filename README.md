@@ -1,2 +1,2 @@
 # Systematization-of-data-analysis
-The whole process system of data-driven decision-making.
+Methodology for the entire process system of data-driven decision-making.
