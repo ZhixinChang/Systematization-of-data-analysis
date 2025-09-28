@@ -10,12 +10,12 @@ In practical data application scenarios, the specific definition of the entire d
 - Enthusiasts dedicated to data science applications.
 
 ## Getting Started
-The data-driven decision-making process system consists of three stages: cognitive insight, strategy validation, and experimental drilling. In addition, it also includes three supporting components: analytical ability, data warehouse, and indicator system. And we implement the application of data-driven decision-making in three stages through these supporting components.
+The data-driven decision-making process system consists of three analysis stages: cognitive insight, strategy validation, and experimental drilling. In addition, it also includes three supporting components: analytical ability, data warehouse, and indicator system. And we implement the application of data-driven decision-making in three stages through these supporting components.
 
 [![Data-driven-decision-making-full-process-system](https://github.com/ZhixinChang/Systematization-of-data-analysis/blob/main/images/Data-driven-decision-making-full-process-system.png "Data-driven-decision-making-full-process-system")](https://github.com/ZhixinChang/Systematization-of-data-analysis/blob/main/images/Data-driven-decision-making-full-process-system.png "Data-driven-decision-making-full-process-system")
 
 
-### Stages
+### Analysis stages
 | Stages | Target | Details |
 |:------:|--------|:-------:|
 | cognitive insight | 1. Determine the priority of optimizing multiple performance indicators.<br>2. Evaluate the impact of work indicators on business indicators.<br>3. Reveal the optimization space of work indicators. | [Learn more][cognitive insight] |
