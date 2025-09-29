@@ -1,4 +1,9 @@
 # Systematization-of-data-analysis
+[![GitHub license][license-badge]][license-url]
+
+[license-badge]: https://img.shields.io/badge/license-MIT-green
+[license-url]: https://github.com/ZhixinChang/Systematization-of-data-analysis/blob/main/LICENSE
+
 Methodology for the entire process system of data-driven decision-making.
 
 ## What can this do for you?
