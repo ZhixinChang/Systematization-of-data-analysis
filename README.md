@@ -21,15 +21,13 @@ The data-driven decision-making process system consists of three analysis stages
 
 
 ### Analysis stages
-1. **Cognitive insight**: provide sufficient data awareness for the business before project execution, and make objective optimization decisions driven by data.
-2. **Strategy validation**: provide AB testing and evaluate the effectiveness of optimization strategies during project execution, using data-driven strategy iteration and optimization.
-3. **Experimental drilling**: in the later stage of project execution, when the strategy effect is not ideal, based on experimental data, further explore the optimization space of sensitive population for strategy/work indicators to further clarify whether additional sensitive population strategies are needed. When the effectiveness of the strategy is ideal, perhaps we are also interested in the chain and degree of the impact of the strategy on the business, which can guide us in other optimizations in the future.
+The essence of the value of analysis is to bring cognition to people. Therefore, the analysis stages is mainly matched with the pre project, project promotion, and post project promotion, and its analysis objectives correspond to acquiring cognition, iterative cognition, and review cognition, respectively.
 
-| Stages | Target | Details |
-|:------:|--------|:-------:|
-| Cognitive insight | 1. Determine the priority of optimizing multiple performance indicators.<br>2. Evaluate the impact of work indicators on business indicators.<br>3. Reveal the optimization space of work indicators. | [Learn more][cognitive insight] |
-| Strategy validation | 1. Design AB testing for strategy optimization.<br>2. Evaluate the impact of strategy AB testing. | [Learn more][strategy validation] |
-| Experimental drilling | 1. Reveal the impact chain and degree of strategies on business.<br>2. Identify sensitive populations for strategies/indicators. | [Learn more][experimental drilling] |
+| Stages | Key Objectives | Key Results | Details |
+|:------:|----------------|-------------|:-------:|
+| Cognitive insight | **Acquiring cognition**. Provide sufficient data awareness for the business before project execution, and make objective optimization decisions driven by data. | 1. Determine the priority of optimizing multiple performance indicators.<br>2. Evaluate the impact of work indicators on business indicators.<br>3. Reveal the optimization space of work indicators. | [Learn more][cognitive insight] |
+| Strategy validation | **Iterative cognition**. Provide AB testing and evaluate the effectiveness of optimization strategies during project execution, using data-driven strategy iteration and optimization. | 1. Design AB testing for strategy optimization.<br>2. Evaluate the impact of strategy AB testing. | [Learn more][strategy validation] |
+| Experimental drilling | **Review cognition**. In the later stage of project execution, when the strategy effect is not ideal, based on experimental data, further explore the optimization space of sensitive population for strategy/work indicators to further clarify whether additional sensitive population strategies are needed. When the effectiveness of the strategy is ideal, perhaps we are also interested in the chain and degree of the impact of the strategy on the business, which can guide us in other optimizations in the future. | 1. Reveal the impact chain and degree of strategies on business.<br>2. Identify sensitive populations for strategies/indicators. | [Learn more][experimental drilling] |
 
 [cognitive insight]: https://github.com/ZhixinChang/Systematization-of-data-analysis/tree/main/cognitive-insight "cognitive insight"
 [strategy validation]: https://github.com/ZhixinChang/Systematization-of-data-analysis/tree/main/strategy-validation "strategy validation"
